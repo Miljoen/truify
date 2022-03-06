@@ -5,7 +5,7 @@ and this project adheres to [Semantic Versioning].
 [Keep a Changelog]: https://keepachangelog.com/en/1.0.0/
 [Semantic Versioning]: https://semver.org/spec/v2.0.0.html
 
-## Unreleased (2022-03-06)
+## [1.0.2] (2022-03-06)
 
 Added
 - .nvmrc
@@ -28,5 +28,6 @@ Initial release
 - TypeScript
 - `truify()`
 
+[1.0.2]: https://github.com/Miljoen/truify/releases/tag/1.0.2
 [1.0.1]: https://github.com/Miljoen/truify/releases/tag/1.0.1
 [1.0.0]: https://github.com/Miljoen/truify/releases/tag/1.0.0
