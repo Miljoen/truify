@@ -8,7 +8,6 @@ For more information, you are kindly referred to the Examples section.
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-[npm]: https://www.npmjs.com/package/truify
 ## Quick links
 - Consult [CHANGELOG.md][changelog] for the project history.
 - View [package repository][project] on GitHub.
@@ -46,6 +45,7 @@ truify() // Error!
 
 View the full list of [contributors].
 
+[npm]: https://www.npmjs.com/package/truify
 [changelog]: https://github.com/Miljoen/truify/blob/master/CHANGELOG.md
 [project]: https://github.com/Miljoen/truify
 [contributors]: https://github.com/Miljoen/truify/graphs/contributors
