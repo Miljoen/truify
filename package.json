@@ -1,0 +1,29 @@
+{
+  "devDependencies": {
+    "typescript": "^4.6.2"
+  },
+  "name": "truify",
+  "version": "1.0.0",
+  "description": "truify any input",
+  "main": "lib/index.js",
+  "types": "lib",
+  "scripts": {
+    "build": "tsc -p ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Miljoen/truify.git"
+  },
+  "keywords": [
+    "typescript",
+    "ts",
+    "npm",
+    "package"
+  ],
+  "author": "Yoeri Joëll Moens",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Miljoen/truify/issues"
+  },
+  "homepage": "https://github.com/Miljoen/truify#readme"
+}
