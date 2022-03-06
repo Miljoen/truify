@@ -15,4 +15,4 @@ Initial release
 - TypeScript
 - `truify` function
 
-[1.0.0]: https://gitlab.pxlwidgets.com/internal/projects/endeavour-client-update-tool/api/-/tree/1.0.0
+[1.0.0]: https://github.com/Miljoen/truify/releases/tag/1.0.0
