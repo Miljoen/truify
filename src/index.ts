@@ -1,3 +1,3 @@
-export function truify(input: unknown) {
+export function truify(input: unknown): boolean {
     return !! input
 }
