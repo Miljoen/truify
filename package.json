@@ -1,9 +1,6 @@
 {
-  "devDependencies": {
-    "typescript": "^4.6.2"
-  },
   "name": "truify",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "truify any input",
   "main": "lib/index.js",
   "types": "lib",
@@ -25,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/Miljoen/truify/issues"
   },
-  "homepage": "https://github.com/Miljoen/truify#readme"
+  "homepage": "https://github.com/Miljoen/truify#readme",
+  "devDependencies": {
+    "typescript": "^4.6.2"
+  }
 }
