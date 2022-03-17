@@ -1,5 +1,5 @@
 # Changelog
-All notable changes to the Endeavour Client Update Tool will be documented in this file. The format is based on [Keep a Changelog],
+All notable changes to truify will be documented in this file. The format is based on [Keep a Changelog],
 and this project adheres to [Semantic Versioning].
 
 [Keep a Changelog]: https://keepachangelog.com/en/1.0.0/
