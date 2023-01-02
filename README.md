@@ -1,6 +1,6 @@
 # Truify [![npm version](https://badgen.net/npm/v/truify?label=npm%20package&color=green&cache=600)][npm]
 
-Simple package that truifies any input, except when it doesn't.
+Simple package that truifies any input.
 
 For more information, you are kindly referred to the Examples section.
 
